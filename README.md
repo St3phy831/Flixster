@@ -24,9 +24,13 @@ Time Spent: **4** hours total
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+Here's the walkthrough of implemented user stories. 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="walkthrough.gif" width=250><br>
+
+<img src="walkthrough_Land.gif" width=250><br>
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Notes
 I accidentally messed up the build gradle file and had to start my project all ove. I'm still getting used to Adnroid Studios. 
