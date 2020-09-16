@@ -33,7 +33,7 @@ Here's the walkthrough of implemented user stories.
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Notes
-I accidentally messed up the build gradle file and had to start my project all ove. I'm still getting used to Adnroid Studios. 
+I accidentally messed up the build gradle file and had to start my project all over. I'm still getting used to Android Studios. 
 
 ### Open-source libraries used
 
