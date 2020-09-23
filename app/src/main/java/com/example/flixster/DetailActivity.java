@@ -22,7 +22,8 @@ import org.parceler.Parcels;
 import okhttp3.Headers;
 
 public class DetailActivity extends YouTubeBaseActivity {
-    private static final String YOUTUBE_API_KEY = "AIzaSyAnix2g0jagj_78h53P7BGrhxdQHDe9w-0";
+
+    private static final String YOUTUBE_API_KEY = BuildConfig.YOUTUBE_API_KEY;
     public static final String YOUTUBE_URL = "https://api.themoviedb.org/3/movie/%d/videos?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed";
 
     TextView tvTitle;
